@@ -1,0 +1,1 @@
+@py.exe C:\Users\Roy\AppData\Local\Programs\Python\Python37\AutomateTheBoringStuff\AutomateTheBoringStuff\bulletPointAdder.py %*
